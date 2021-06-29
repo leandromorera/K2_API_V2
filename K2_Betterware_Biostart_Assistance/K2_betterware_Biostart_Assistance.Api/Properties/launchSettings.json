@@ -1,0 +1,31 @@
+﻿{
+    "$schema": "http://json.schemastore.org/launchsettings.json",
+    "iisSettings": {
+        "windowsAuthentication": false,
+        "anonymousAuthentication": true,
+        "iisExpress": {
+            "applicationUrl": "http://localhost:50610",
+            "sslPort": 44360
+        }
+    },
+    "profiles": {
+        "IIS Express": {
+            "commandName": "IISExpress",
+            "launchBrowser": true,
+            "launchUrl": "api/Assistance",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "applicationUrl": "https://localhost:5002;http://localhost:5003"
+        },
+        "K2_betterware_Biostart_Assistance.Api": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "launchUrl": "api/Assistance",
+            "applicationUrl": "https://localhost:5002;http://localhost:5003",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}

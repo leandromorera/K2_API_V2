@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\K2_betterware_Biostart_Assistance.Core\K2_betterware_Biostart_Assistance.Core.csproj" />
+    <ProjectReference Include="..\K2_betterware_Biostart_Assistance.Infraestructure\K2_betterware_Biostart_Assistance.Infraestructure.csproj" />
+  </ItemGroup>
+
+
+</Project>
