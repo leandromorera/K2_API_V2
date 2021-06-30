@@ -9,7 +9,7 @@ namespace K2_Betterware_Schedule_Assistance.Infraestructure.Connection
         private string processTable = "CREATE TABLE process (idProceso text, fechaInicio text, fechaFin text, tipoEvento varchar(20), status varchar(50));";
         private string eventTable = "CREATE TABLE events (idEmpleado varchar(15), idDispositivo varchar(15), fechaEvento varchar(15), nip varchar(15) , error varchar(70),idProceso text);";
         private string processConfTable = "CREATE TABLE processConfig (trigger text, active boolean, reprocess boolean, insertAssistance boolean );";
-        private string insertConfTable = "INSERT INTO processConfig ('trigger', 'active' , 'reprocess' , 'insertAssistance' ) VALUES ('0/35 * * * * ?' , 1 , 0 , 0 ); ";
+        private string insertConfTable = "INSERT INTO processConfig ('trigger', 'active' , 'reprocess' , 'insertAssistance' ) VALUES ('0/35 * * * * ?' , 1 , 0 , 1); ";
 
         public ConnectionDB() {
             conn = new SQLiteConnection("Data Source=assistance_events.sqlite3");

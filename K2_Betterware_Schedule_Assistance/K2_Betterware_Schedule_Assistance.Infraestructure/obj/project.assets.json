@@ -1298,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\K2_Betterware_Schedule_Assistance.Infraestructure.csproj",
+      "projectUniqueName": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\K2_Betterware_Schedule_Assistance.Infraestructure.csproj",
       "projectName": "K2_Betterware_Schedule_Assistance.Infraestructure",
-      "projectPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\K2_Betterware_Schedule_Assistance.Infraestructure.csproj",
+      "projectPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\K2_Betterware_Schedule_Assistance.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\leomo\\.nuget\\packages\\",
-      "outputPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\obj\\",
+      "outputPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1325,8 +1325,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj": {
-              "projectPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj"
+            "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj": {
+              "projectPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rM8DRHbBQTzWYhyp7fuwzqRkEffLAODzHUgH5DNoiYqKcfSbaHwt6dHXuIfaxxASuUPvrC0ExDPjqtLWUqQZAA==",
+  "dgSpecHash": "0gZfJZJV9wXlTMM+nH+VtI1w/MYUUQ1RRLkp3GN2JuVv/zetb8EyTfMTLUfLDVD8vU7FOl7irJxGtS0m47aBFA==",
   "success": true,
-  "projectFilePath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\K2_Betterware_Schedule_Assistance.Infraestructure.csproj",
+  "projectFilePath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Infraestructure\\K2_Betterware_Schedule_Assistance.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leomo\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\leomo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

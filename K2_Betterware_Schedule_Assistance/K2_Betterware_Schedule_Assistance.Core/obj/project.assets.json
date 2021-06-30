@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj",
+      "projectUniqueName": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj",
       "projectName": "K2_Betterware_Schedule_Assistance.Core",
-      "projectPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj",
+      "projectPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj",
       "packagesPath": "C:\\Users\\leomo\\.nuget\\packages\\",
-      "outputPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\obj\\",
+      "outputPath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

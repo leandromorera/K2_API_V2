@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Le8vRLZ6EuWaLVCw5rlB+c5VbMgDRoyqPY4+eayHlQAEGkQDVqMGKeuqm0RvRuTAo/ewRWWZ5pdxPOn4fOx8Cg==",
+  "dgSpecHash": "Q4q2NDwCiuXKBnYpR5nTlOO7l9ZqaoVv160vznpZQwvvvAKyxPqhUAxyj5NiYSfXRgfqg3BxC93XBmScbDgyhg==",
   "success": true,
-  "projectFilePath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj",
+  "projectFilePath": "C:\\PROYECTO_K2_TRABAJAR_ESTE\\K2_Betterware_Assistance-main\\K2_API_V2\\K2_Betterware_Schedule_Assistance\\K2_Betterware_Schedule_Assistance.Core\\K2_Betterware_Schedule_Assistance.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leomo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
